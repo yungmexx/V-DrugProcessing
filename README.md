@@ -1,3 +1,11 @@
+3.0.2
+
+## Recent Updates
+- Fixed This and that
+- NEW PEDS SPAWNS
+- THIS AND THAT
+
+
 3.0.1
 
 ## Recent Updates
